@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning MERN Stack
 - 💬 Ask me about Tech
 - 📫 How to reach me:
-[![LinkedIn]([https://www.linkedin.com/in/vigneshj02/])]  
+[![LinkedIn]([https://www.linkedin.com/in/vigneshj02/])
 
 ---
 
