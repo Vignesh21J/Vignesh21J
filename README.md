@@ -16,6 +16,7 @@
 
 ### 💻 I Code In  
 ![Languages](https://skillicons.dev/icons?i=python,django,javascript,react,mysql,html,css,bootstrap,nodejs,express,mongodb,c)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
