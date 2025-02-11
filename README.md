@@ -6,20 +6,16 @@
 ### 📂 My Portfolio  
 [Portfolio](https://vigneshjdev.pythonanywhere.com/)
 
- _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Python (Django) Full Stack
 - 🌱 I’m currently learning MERN Stack
 - 💬 Ask me about Tech
 - 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshj02/)  
+<br /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshj02/)  
 
 ---
 
 ### 💻 I Code In  
-![Languages](https://skillicons.dev/icons?i=python,django,javascript,react,nodejs,express,mongodb,html,css,bootstrap,c,cpp)  
+![Languages](https://skillicons.dev/icons?i=python,django,javascript,react,mysql,html,css,bootstrap,nodejs,express,mongodb,c)  
 
 ---
 
