@@ -24,7 +24,7 @@
 
 
 ### Workspace
-[![LeetCode Stats](https://leetcard.jacoblin.cool/pjYwDXaKUr?theme=light&font=Noto%20Sans%20Thai&site=cn)](https://leetcode.com/u/pjYwDXaKUr/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/pjYwDXaKUr?theme=dark&font=Noto%20Sans%20Thai)](https://leetcode.com/u/pjYwDXaKUr/)
 
 
 ⭐ **Feel free to explore my repositories and connect with me!** 🚀  
