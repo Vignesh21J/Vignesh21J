@@ -23,6 +23,10 @@
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman)  
 
 
+### Workspace
+[![LeetCode Stats](https://leetcard.jacoblin.cool/pjYwDXaKUr?theme=light&font=Noto%20Sans%20Thai&site=cn)](https://leetcode.com/u/pjYwDXaKUr/)
+
+
 ⭐ **Feel free to explore my repositories and connect with me!** 🚀  
 
 
