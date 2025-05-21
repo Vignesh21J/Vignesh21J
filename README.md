@@ -15,7 +15,7 @@
 ---
 
 ### 💻 I Code In  
-![Languages](https://skillicons.dev/icons?i=python,django,javascript,react,mysql,html,css,bootstrap,nodejs,express,mongodb,c)  
+![Languages](https://skillicons.dev/icons?i=java,python,django,javascript,react,mysql,html,css,bootstrap,nodejs,express,mongodb,c)  
 
 ---
 
