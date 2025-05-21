@@ -20,7 +20,7 @@
 ---
 
 ### 🛠️ Tools & Technologies  
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman)  
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,pycharm,postman)  
 
 
 ### 💻 Workspace
