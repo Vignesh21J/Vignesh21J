@@ -7,7 +7,7 @@
 [Portfolio](https://vigneshdevj.pythonanywhere.com/)
 
 - 🔭 I’m currently working on Python (Django) Full Stack
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning CORE Java with OOP principle and Design Patterns
 - 💬 Ask me about Tech
 - 📫 How to reach me:
 <br /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshj02/)  
@@ -15,12 +15,12 @@
 ---
 
 ### 💻 I Code In  
-![Languages](https://skillicons.dev/icons?i=java,python,django,javascript,react,mysql,html,css,bootstrap,nodejs,express,mongodb,c)  
+![Languages](https://skillicons.dev/icons?i=java,python,django,javascript,react,mysql,html,css,bootstrap)  
 
 ---
 
 ### 🛠️ Tools & Technologies  
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,pycharm,postman)  
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,intellij,postman)  
 
 
 ### 💻 Workspace
