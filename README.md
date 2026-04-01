@@ -24,7 +24,7 @@
 
 
 ### 💻 Workspace
-[![LeetCode Stats](https://leetcard.jacoblin.cool/pjYwDXaKUr?theme=dark&font=IBM%20Plex%20Sans)](https://leetcode.com/u/iPEGbqlZKZ/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/iPEGbqlZKZ?theme=dark&font=IBM%20Plex%20Sans)](https://leetcode.com/u/iPEGbqlZKZ/)
 
 
 ⭐ **Feel free to explore my repositories and connect with me!** 🚀  
