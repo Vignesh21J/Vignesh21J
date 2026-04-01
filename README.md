@@ -1,12 +1,12 @@
 ## Hi there 👋 It's me Vignesh J
 
-## Electronics and Communication Engineering Student   
+## B.E ECE Student
 <img align="right" width="370" height= "290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 ### 📂 My Portfolio  
 [Portfolio](https://vigneshdevj.pythonanywhere.com/)
 
-- 🔭 I’m currently working on Python (Django) Full Stack
+- 🔭 I’m currently working on Web Technologies
 - 🌱 I’m currently learning CORE Java with OOP principle and Design Patterns
 - 💬 Ask me about Tech
 - 📫 How to reach me:
@@ -15,7 +15,7 @@
 ---
 
 ### 💻 I Code In  
-![Languages](https://skillicons.dev/icons?i=java,python,django,javascript,react,mysql,html,css,bootstrap)  
+![Languages](https://skillicons.dev/icons?i=java,javascript,react,mysql,html,css,bootstrap)  
 
 ---
 
@@ -24,7 +24,7 @@
 
 
 ### 💻 Workspace
-[![LeetCode Stats](https://leetcard.jacoblin.cool/pjYwDXaKUr?theme=dark&font=IBM%20Plex%20Sans)](https://leetcode.com/u/pjYwDXaKUr/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/pjYwDXaKUr?theme=dark&font=IBM%20Plex%20Sans)](https://leetcode.com/u/iPEGbqlZKZ/)
 
 
 ⭐ **Feel free to explore my repositories and connect with me!** 🚀  
