@@ -10,9 +10,13 @@
 <br /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshj02/)  
 
 ---
+---
 
 ### 💻 I Code In  
-![Languages](https://skillicons.dev/icons?i=java,oracle,mysql,selenium&theme=dark)
+
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Languages](https://skillicons.dev/icons?i=java,mysql,selenium&theme=dark)
+
+---
 
 ---
 
