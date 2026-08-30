@@ -3,19 +3,16 @@
 ## B.E ECE Student
 <img align="right" width="370" height= "290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-### 📂 My Portfolio  
-[Portfolio](https://vigneshdevj.pythonanywhere.com/)
-
-- 🔭 I’m currently working on Web Technologies
-- 🌱 I’m currently learning CORE Java with OOP principle and Design Patterns
-- 💬 Ask me about Tech
+- 🔭 I’m actively learning Manual and Automation Testing
+- 🌱 I’m currently learning CORE Java with OOP principle and Oracle SQL
+- 💬 Ask me about Testing
 - 📫 How to reach me:
 <br /> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vigneshj02/)  
 
 ---
 
 ### 💻 I Code In  
-![Languages](https://skillicons.dev/icons?i=java,javascript,react,mysql,html,css,bootstrap)  
+![Languages](https://skillicons.dev/icons?i=java,oraclesql,mysql,selenium)  
 
 ---
 
@@ -24,7 +21,7 @@
 
 
 ### 💻 Workspace
-[![LeetCode Stats](https://leetcard.jacoblin.cool/iPEGbqlZKZ?theme=dark&font=IBM%20Plex%20Sans)](https://leetcode.com/u/iPEGbqlZKZ/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/iPEGbqlZKZ?theme=dark&font=IBM%20Plex%20Sans)](https://leetcode.com/u/0GxKYHcf1g/)
 
 
 ⭐ **Feel free to explore my repositories and connect with me!** 🚀  
