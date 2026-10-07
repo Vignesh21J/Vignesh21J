@@ -24,9 +24,6 @@
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,postman)
 
 
-### 💻 Workspace
-[![LeetCode Stats](https://leetcard.jacoblin.cool/0GxKYHcf1g?theme=dark&font=IBM%20Plex%20Sans)](https://leetcode.com/u/0GxKYHcf1g/)
-
 
 ⭐ **Feel free to explore my repositories and connect with me!** 🚀  
 
